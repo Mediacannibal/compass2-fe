@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{1127:function(e,n,a){"use strict";a.r(n);var t=a(1),c=a.n(t),p=(a(540),a(722));n.default=function(){return c.a.createElement("div",{className:"App"},c.a.createElement(p.a,null))}}}]);
-//# sourceMappingURL=39.091bab58eaf26ac87534.js.map
